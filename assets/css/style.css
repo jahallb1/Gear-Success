@@ -80,3 +80,58 @@ section {
     background-position: left;
     position: relative;
 }
+
+.about-us {
+    text-align: left;
+}
+
+.about-us {
+    width: 800px;
+    margin: 50px auto 30px auto;
+    background: slategray;
+    color: darkgreen;
+    overflow: auto;
+    position: absolute;
+}
+
+.about-us img {
+    width: 35%;
+    float: left;
+    margin-top: 10px;
+}
+
+.jakes-bio {
+    padding: 35px;
+    float: left;
+    width: 65%;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.jakes-bio h3 {
+    font-size: 32px;
+    margin-bottom: 8px;
+}
+
+.jakes-bio p {
+    font-size: 17px;
+    line-height: 1.3;
+}
+.about-us {
+    height: 600px;
+    background-size: cover;
+    background-position: right;
+    position: relative;
+}
+
+.update-box {
+    width: 400px;
+    font-size: 30px;
+    margin: 50 auto 50 auto;
+    background: slategray;
+    text-align: center;
+    position: center;
+    float: inline-end;
+}
